@@ -12,7 +12,7 @@ One Project feito pelo o Autor Antonio Oliveira
 </p>
 
 <p align="center">
-  <img alt="One Project" src="./Assets/assets/assets/One.png">
+  <img alt="One Project" src="">
 </p>
 
 <br>
