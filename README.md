@@ -28,6 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Primeiro Projetos de Muitos idealizado por Antonio Oliveira.
+
 É um agregador de links para usar como cartão de visita Online
 
 ## 🔖 Layout
